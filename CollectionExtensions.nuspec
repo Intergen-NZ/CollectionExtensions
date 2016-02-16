@@ -5,8 +5,8 @@
     <version>$version$</version>
     <title>$title$</title>
     <authors>Opender Singh</authors>
-    <owners>$author$</owners>
-    <!--licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl-->
+    <owners>Intergen Ltd</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <projectUrl>https://github.com/Intergen-NZ/CollectionExtensions</projectUrl>
     <iconUrl>https://avatars2.githubusercontent.com/u/17167744</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
