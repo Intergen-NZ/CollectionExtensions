@@ -40,7 +40,7 @@ namespace CollectionExtensions
         }
 
         /// <summary>
-        /// Simultaneiusly iterates three lists
+        /// Simultaneiusly iterates Three lists
         /// </summary>
         public static void IterateMultiple<T1, T2, T3>(this IEnumerable<T1> first, IEnumerable<T2> second, IEnumerable<T3> third, Action<T1, T2, T3> action)
         {
